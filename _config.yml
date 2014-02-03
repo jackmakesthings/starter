@@ -3,8 +3,8 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  siteurl: 'http://prose.github.io/#jackmakesthings/starter/'
-  relativeLinks: 'http://prose.github.io/#jackmakesthings/starter/links.jsonp'
+  siteurl: 'http://jackmakesthings.github.io/starter/'
+  relativeLinks: 'http://jackmakesthings.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
     _posts:
